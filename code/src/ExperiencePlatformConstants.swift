@@ -74,7 +74,7 @@ struct ExperiencePlatformConstants {
         struct Griffon {
             private init() {}
 
-            static let stateOwner = "com.adobe.ACPGriffon"
+            static let stateOwner = "com.adobe.assurance"
             static let integrationId = "integrationid"
         }
 
